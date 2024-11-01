@@ -1,0 +1,58 @@
+body{ 
+    background-image: url(./Deutsch.webp) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.Meine-Morgenroutine{
+    position: relative;
+    color: lightblue;
+    padding: 10px;
+    display: inline;
+    background-color: rgb(0, 0, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.container{
+    position: absolute;
+    background-color: #f0f0f0;
+    height: 500px;
+    width: 500px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 16px 16px 10px #d7d7d7 ;
+    border-radius: 20px 20px 20px 60px;
+
+}
+.name{
+    position: relative;
+    left: 20px;
+    
+}
+.Y{
+    color: blue;
+}
+.para{
+    position: relative;
+    text-align: center;
+    border: 5px solid blue;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.img{
+    position: relative;
+    background-image: url(./hello.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 5px solid blue;
+    box-shadow: 10px 10px 10px ;
+    height: 250px;
+    width: 250px;
+    left: 23%;
+    bottom: 20px;
+    
+    
+
+}
